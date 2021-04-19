@@ -3,6 +3,10 @@
 <h2>Built with Laravel & Tailwind CSS</h2>
 
 <div>
+  <p>Buylar learns your consumption behaviour and tells you what you should buy, even if you don't know that you might need it.</p>
+</div>
+
+<div>
   <p>Install How-To:</p>
 <ol>
   <p style{padding: 10;}>git clone the repository</p>
